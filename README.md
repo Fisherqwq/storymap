@@ -1,2 +1,2 @@
 # storymap
-https://fisherqwq.github.io/Fisherqwq/storymap/3d_model.html
+https://fisherqwq.github.io/Fisherqwq/storymap/index.html
