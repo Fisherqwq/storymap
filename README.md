@@ -1,2 +1,2 @@
 # storymap
-https://fisherqwq.github.io/Fisherqwq/storymap/index.html
+https://fisherqwq.github.io/storymap/index.html
